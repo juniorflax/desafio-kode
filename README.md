@@ -4,7 +4,7 @@
 
 ## 🎮 Sobre o Jogo
 
-KodeLand é um jogo de aventura 2D desenvolvido com Pygame Zero onde você controla um personagem que precisa coletar itens enquanto evita inimigos em um labirinto. O jogo apresenta diferentes tipos de inimigos, cada um com comportamentos únicos, e um sistema de pontuação baseado nos itens coletados.
+KodeLand é um jogo de aventura 2D onde você controla um personagem que precisa coletar itens enquanto evita inimigos em um labirinto. O jogo apresenta diferentes tipos de inimigos, cada um com comportamentos únicos, e um sistema de pontuação baseado nos itens coletados.
 
 ## ✨ Características
 
